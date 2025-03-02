@@ -1,7 +1,8 @@
 // Copyright my own damn self, it's just a learning project
 
-#include "AbilitySystem/AuraAbilitySystemComponent.h"
+
 #include "Character/AuraEnemy.h"
+#include "AbilitySystem/AuraAbilitySystemComponent.h"
 
 #include "AbilitySystem/AuraAttributeSet.h"
 
